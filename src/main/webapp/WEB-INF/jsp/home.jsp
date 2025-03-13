@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1> WELCOME TO SPRING BOOT MVC RESPONSE</h1>
+
+<a href="user">user</a>
 </body>
 </html>
